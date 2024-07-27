@@ -4,7 +4,7 @@ const Target = @import("Target");
 
 pub fn main() void {
     if (builtin.target.os.tag == .windows) {
-        std.debug.print("Estropajo version 0.0.😿 - Copyright (c) 2024 Gátomo\n The definitive scourer to clean your RAM in Window$\n\n Made with hatred towards Micro$oft by Gátomo\n https://github.com/gatomod/estropajo\n", .{});
+        std.debug.print("Estropajo version 0.0.😿 - Copyright (c) 2024 Gátomo\n The definitive scourer to clean your RAM in Window$\n\n Made with hatred towards Micro$oft by Gátomo\n https://github.com/aidakdev/estropajo\n", .{});
 
         std.debug.print("Allocating estropajo...\n", .{});
 
