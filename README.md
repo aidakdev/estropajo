@@ -1,4 +1,4 @@
-![logo](assets/banner.png)
+![logo](assets/banner-estropajico.png)
 
 Estropajo is the definitive scourer for your day-to-day, you can save up to 80% of RAM by just using whatever is this program, without closing any program or tab in your browser!
 
